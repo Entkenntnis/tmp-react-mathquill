@@ -14,7 +14,7 @@
     "test": "eslint src/ examples/src/",
     "start:example": "webpack --mode development --watch & webpack-dev-server --config webpack.examples.js --mode development",
     "build:example": "npm run build && webpack --mode development --config webpack.examples.js",
-    "deploy": "npm run build:example && gh-pages -d examples/dist",
+    "deploy": "npm run build:example && gh-pages -d examples/dist"
   },
   "dependencies": {},
   "peerDependencies": {
