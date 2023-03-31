@@ -1,6 +1,6 @@
 {
   "name": "react-mathquill",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React component wrapper for Mathquill",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -20,7 +20,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^17.0.2"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
